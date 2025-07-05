@@ -22,7 +22,7 @@ Built a Python-based supervised learning model to classify restaurant reviews us
 | Libraries            | `PyTorch`, `Torchtext`, `spaCy`, `sklearn`, `matplotlib`, `seaborn`        |
 | Model Architecture   | LSTM (Long Short-Term Memory)                                               |
 | Evaluation Metrics   | Accuracy, Macro-Averaged F1 Score, Normalized Confusion Matrix             |
-| Dataset              | IMDb movie review dataset with 3-class sentiment annotations               |
+| Dataset              | Restaurant review dataset with 3-class sentiment annotations               |
 
 ---
 
