@@ -45,13 +45,6 @@ Built a Python-based supervised learning model to classify restaurant reviews us
 ```bash
 python assignment2.py
 ```
-
-Make sure you have the IMDb dataset loaded and `spaCy` English tokenizer installed:
-
-```bash
-python -m spacy download en_core_web_sm
-```
-
 ---
 
 ## 👩‍💻 Author
